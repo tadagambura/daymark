@@ -1,61 +1,77 @@
 # Daymark: Spec
 
-**Rank in portfolio:** #3 of 15 (easiest → hardest) · **Difficulty:** Very easy
+**Countdown to anything** · #4 of 33 in the build order · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: ChatGPT + Perplexity
 
 ## One-liner
 
-Countdown to anything: holidays, birthdays, payday, exams, big days.
+Beautiful countdowns, and 'days since' counters, for the things you're looking forward to: holidays, birthdays, payday, exams, moving day, concerts, due dates. Lives on your home screen as a widget.
 
 ## Problem / audience
 
-- **Who it's for:** Anyone looking forward to something: holidays, weddings, concerts, due dates, exams, moving day.
-- **The problem it solves:** People want to see the days ticking down to things they care about, beautifully.
+- **Who it's for:** Broad: students, planners, parents, event-goers, anyone looking forward to something.
+- **The problem it solves:** People want to see the days ticking down to the things they care about, somewhere they'll see it every day.
+- **Example:** A worker counts down to payday, a student to exams and a family to their holiday, all on one home-screen widget.
 
 ## MVP features (ship with only these)
 
-1. Create countdowns (and count-ups since a date)
-2. Days / weeks / hours display, themed cards
-3. Up to 3 free countdowns
-4. Share a countdown card
-5. Reminder the day before
+1. Countdowns and count-ups ('days since') with themed cards
+2. Days, weeks and hours, plus a progress bar
+3. Recurring events: payday, bin day, birthdays, term dates
+4. Three free countdowns
+5. Share a countdown card; reminder the day before
 
 ## Not in MVP
 
-- Home-screen widgets (native)
-- Premium themes and photo backgrounds
-- Unlimited countdowns
+- Home-screen and lock-screen widgets
+- Shared countdowns for group trips
+- Photo backgrounds and premium themes
 
 ## Monetisation
 
 | Model | Detail |
 |---|---|
 | Free | 3 countdowns, with ads |
-| Paid | Lifetime unlock £3.99 (or £2.99/month): unlimited + themes + widgets |
+| Premium | £4.99–£9.99 lifetime (or £1.99/month): unlimited countdowns, widgets, themes, shared countdowns |
 | Ads | Banner only, never on the countdown card |
 
-Prices are starting points from the portfolio brief; test before committing.
+Prices are starting points; test before committing.
 
-## Platform & stack
+## Retention: The Progression Loop
 
-- **Platform:** Web first; widgets need the native Expo build.
-- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob). See the portfolio roadmap.
-- **Data:** Device only.
+| Stage | Design |
+|---|---|
+| Cue | The countdown itself, seen daily on the widget |
+| Tiny win | Glance at the widget |
+| Progress | Days remaining and % complete |
+| Share | Countdown cards |
+| Next step | When an event arrives, prompt for the next one ('Next holiday?') |
+| Cadence | Daily glance, event-driven |
 
-## Growth engine hooks
+Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
+never wiped, at most one notification a day by default.
 
-- **Shareable output:** Countdown cards ("12 days until Ibiza").
-- **Content pillars:** Seasonal countdowns (Christmas, summer, exam season); Life milestones; Anticipation & planning tips
+## Platform & data
 
-## Notes
+- **Platform:** Expo app; widgets need the native build. A web version is a quick start.
+- **Data:** On the device only.
+- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
-First app to go to the app stores. Widgets are the main paid draw.
+## Growth engine
+
+- **Content pillars:** Seasonal countdowns; Life milestones; Anticipation and planning
+- **Shareable output:** Countdown cards
+
+## Risks
+
+Crowded category; widgets and design quality are the difference. The store name may already be taken.
 
 ## Launch checklist
 
-- [ ] Name checked on App Store / Play Store / trademark search
+- [ ] Name checked on the App Store, Play Store and a trademark search
 - [ ] MVP features done and tested
-- [ ] Privacy policy + terms
+- [ ] Progression Loop wired (cue, tiny win, progress, milestone, next step)
+- [ ] Privacy policy and terms
 - [ ] Landing page
-- [ ] Analytics wired
+- [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
 - [ ] Added to growth-engine as an app config
