@@ -50,12 +50,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Flip-clock countdown
-- Confetti explosion when a countdown hits zero
+- Countdown hits zero: confetti cannon and the flip clock spins
+- Each new day: a flip-clock digit flips with a satisfying clack
+- Holiday countdown: the suitcase hops with excitement
+- Birthday: the cake's candles blow themselves out
+- Exam countdown: the stickman pulls an all-nighter and his coffee overflows
 
 
 ## AI
