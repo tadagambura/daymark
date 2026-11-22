@@ -1,6 +1,6 @@
 # Daymark: Spec
 
-**Countdown to anything** · #12 of 33 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: ChatGPT + Perplexity
+**Countdown to anything** · #14 of 32 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: ChatGPT + Perplexity
 
 ## One-liner
 
