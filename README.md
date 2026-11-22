@@ -2,7 +2,7 @@
 
 **Countdown to anything**
 
-> #4 of 33 in the build order · Very easy · Revenue potential: Medium · Plans, Trips & Occasions
+> #12 of 33 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Countdown cards |
 | Next step | When an event arrives, prompt for the next one ('Next holiday?') |
 | Cadence | Daily glance, event-driven |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
