@@ -56,6 +56,14 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | When an event arrives, prompt for the next one ('Next holiday?') |
 | Cadence | Daily glance, event-driven |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- Flip-clock countdown
+- Confetti explosion when a countdown hits zero
+
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
