@@ -1,28 +1,30 @@
 # Daymark: Spec
 
-**Countdown to anything** · #14 of 32 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: ChatGPT + Perplexity
+**Countdown to anything, and never miss a birthday** · #14 of 31 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: ChatGPT + Perplexity (merges Daymark)
 
 ## One-liner
 
-Beautiful countdowns, and 'days since' counters, for the things you're looking forward to: holidays, birthdays, payday, exams, moving day, concerts, due dates. Lives on your home screen as a widget.
+Beautiful countdowns (and 'days since' counters) for the things you're looking forward to: holidays, payday, exams, moving day, concerts. Plus a people & birthdays mode: the people you buy for, their birthdays and anniversaries, a running note of gift ideas for each, and a nudge two weeks before with your ideas and budget ready. Lives on your home screen as a widget.
 
 ## Problem / audience
 
-- **Who it's for:** Broad: students, planners, parents, event-goers, anyone looking forward to something.
-- **The problem it solves:** People want to see the days ticking down to the things they care about, somewhere they'll see it every day.
-- **Example:** A worker counts down to payday, a student to exams and a family to their holiday, all on one home-screen widget.
+- **Who it's for:** Anyone looking forward to something, and whoever in the household 'does the presents'.
+- **The problem it solves:** People want to see the days ticking down to things they care about, and birthdays sneak up with gift ideas long forgotten.
+- **Example:** A worker counts down to payday and a holiday on one widget; in March they note that their sister mentioned a pottery class, and in October Daymark nudges them two weeks before her birthday with the idea and budget ready.
 
 ## MVP features (ship with only these)
 
 1. Countdowns and count-ups ('days since') with themed cards
-2. Days, weeks and hours, plus a progress bar
-3. Recurring events: payday, bin day, birthdays, term dates
-4. Three free countdowns
-5. Share a countdown card; reminder the day before
+2. Recurring events: payday, bin day, term dates
+3. People & birthdays: birthdays, anniversaries and a gift-idea note per person, captured year-round
+4. Reminders 2 weeks and 2 days before birthdays; budget per person and a 'bought' tick
+5. Share a countdown card; three free countdowns
 
 ## Not in MVP
 
 - Home-screen and lock-screen widgets
+- Christmas list mode and shared family gift lists
+- Gift suggestions by age and interest (affiliate, clearly labelled)
 - Shared countdowns for group trips
 - Photo backgrounds and premium themes
 
@@ -30,8 +32,9 @@ Beautiful countdowns, and 'days since' counters, for the things you're looking f
 
 | Model | Detail |
 |---|---|
-| Free | 3 countdowns, with ads |
-| Premium | £4.99–£9.99 lifetime (or £1.99/month): unlimited countdowns, widgets, themes, shared countdowns |
+| Free | 3 countdowns and up to 5 people, with ads |
+| Premium | £4.99–£9.99 lifetime (or £1.99/month): unlimited countdowns and people, widgets, themes, shared lists |
+| Affiliate | Gift ideas linking to retailers, clearly labelled |
 | Ads | Banner only, never on the countdown card |
 
 Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
@@ -40,12 +43,12 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 
 | Stage | Design |
 |---|---|
-| Cue | The countdown itself, seen daily on the widget |
-| Tiny win | Glance at the widget |
-| Progress | Days remaining and % complete |
-| Share | Countdown cards |
-| Next step | When an event arrives, prompt for the next one ('Next holiday?') |
-| Cadence | Daily glance, event-driven |
+| Cue | The countdown on the widget daily; birthday reminders |
+| Tiny win | Glance at the widget, or tick 'bought' / add a gift idea |
+| Progress | Days remaining and % complete; who's sorted this year |
+| Share | Countdown cards and family wishlists |
+| Next step | When an event arrives, prompt for the next one; after a birthday, jot ideas for next year |
+| Cadence | Daily glance, event-driven, Christmas peak |
 
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
@@ -56,9 +59,9 @@ never wiped, at most one notification a day by default.
 
 - Countdown hits zero: confetti cannon and the flip clock spins
 - Each new day: a flip-clock digit flips with a satisfying clack
-- Holiday countdown: the suitcase hops with excitement
+- Birthday approaching: the gift box shakes a little more each day
+- Marked as bought: the ribbon unties itself into confetti
 - Birthday: the cake's candles blow themselves out
-- Exam countdown: the stickman pulls an all-nighter and his coffee overflows
 
 
 ## AI
@@ -75,12 +78,12 @@ cheapest model, shared budget cap, premium-gated.)
 
 ## Growth engine
 
-- **Content pillars:** Seasonal countdowns; Life milestones; Anticipation and planning
-- **Shareable output:** Countdown cards
+- **Content pillars:** Seasonal countdowns; Life milestones; Gift ideas by person; Christmas planning; Remembering dates
+- **Shareable output:** Countdown cards and family wishlists
 
 ## Risks
 
-Crowded category; widgets and design quality are the difference. The store name may already be taken.
+Crowded category; widgets and design quality are the difference. Contact import (later) needs careful privacy wording. The store name may already be taken.
 
 ## Launch checklist
 
