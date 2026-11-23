@@ -1,6 +1,6 @@
 # Daymark: Spec
 
-**Countdown to anything, and never miss a birthday** · #14 of 31 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: ChatGPT + Perplexity (merges Daymark)
+**Countdown to anything, and never miss a birthday** · #12 of 16 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: ChatGPT + Perplexity (absorbs GiftNudge, PackRight and MoveDay)
 
 ## One-liner
 
@@ -19,6 +19,7 @@ Beautiful countdowns (and 'days since' counters) for the things you're looking f
 3. People & birthdays: birthdays, anniversaries and a gift-idea note per person, captured year-round
 4. Reminders 2 weeks and 2 days before birthdays; budget per person and a 'bought' tick
 5. Share a countdown card; three free countdowns
+6. Templates with a checklist attached: trip (packing list) and UK house move (council tax, TV licence, DVLA, meter readings)
 
 ## Not in MVP
 
