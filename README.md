@@ -2,7 +2,7 @@
 
 **Countdown to anything, and never miss a birthday**
 
-> #11 of 15 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions
+> #11 of 17 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions
 
 ## What it is
 
@@ -87,5 +87,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 15 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 17 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
