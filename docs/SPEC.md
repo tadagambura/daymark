@@ -1,6 +1,6 @@
 # Daymark: Spec
 
-**Countdown to anything, and never miss a birthday** · #11 of 15 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: ChatGPT + Perplexity (absorbs GiftNudge, PackRight and MoveDay)
+**Countdown to anything, and never miss a birthday** · #11 of 17 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: ChatGPT + Perplexity (absorbs GiftNudge, PackRight and MoveDay)
 
 ## One-liner
 
