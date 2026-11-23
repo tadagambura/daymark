@@ -2,7 +2,7 @@
 
 **Countdown to anything, and never miss a birthday**
 
-> #14 of 31 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions
+> #12 of 16 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions
 
 ## What it is
 
@@ -25,6 +25,7 @@ Anyone looking forward to something, and whoever in the household 'does the pres
 - People & birthdays: birthdays, anniversaries and a gift-idea note per person, captured year-round
 - Reminders 2 weeks and 2 days before birthdays; budget per person and a 'bought' tick
 - Share a countdown card; three free countdowns
+- Templates with a checklist attached: trip (packing list) and UK house move (council tax, TV licence, DVLA, meter readings)
 
 **Example:** A worker counts down to payday and a holiday on one widget; in March they note that their sister mentioned a pottery class, and in October Daymark nudges them two weeks before her birthday with the idea and budget ready.
 
@@ -86,5 +87,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 31 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 16 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
