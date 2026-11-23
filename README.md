@@ -42,7 +42,7 @@ Anyone looking forward to something, and whoever in the household 'does the pres
 | Model | Detail |
 |---|---|
 | Free | 3 countdowns and up to 5 people, with ads |
-| Premium | £4.99–£9.99 lifetime (or £1.99/month): unlimited countdowns and people, widgets, themes, shared lists |
+| Premium | £24.99/year (shown first) or £3.49/month, or a lifetime unlock: unlimited countdowns and people, widgets, themes, shared lists |
 | Affiliate | Gift ideas linking to retailers, clearly labelled |
 | Ads | Banner only, never on the countdown card |
 
