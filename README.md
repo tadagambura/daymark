@@ -2,7 +2,7 @@
 
 **Countdown to anything, and never miss a birthday**
 
-> #12 of 16 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions
+> #11 of 15 · Wave 2: Recurring keepers · Used: Daily glance · Very easy · Revenue potential: Medium · Plans, Trips & Occasions
 
 ## What it is
 
@@ -10,7 +10,7 @@ Beautiful countdowns (and 'days since' counters) for the things you're looking f
 
 ## Why it's in the portfolio
 
-Countdown apps get steady downloads, are quick to build and sell well as a lifetime unlock. Birthdays are just countdowns to people, so folding Daymark in gives Daymark several guaranteed return visits a year, a huge Christmas peak, and an honest place for gift-idea affiliate links, without shipping two near-identical apps (which app stores can reject as spam). Every countdown is a shareable card, and it points to sister apps: payday to PocketLeft, exams to StudySprint, trips to PackRight.
+Countdown apps get steady downloads, are quick to build and sell well as a lifetime unlock. Birthdays are just countdowns to people, so folding Daymark in gives Daymark several guaranteed return visits a year, a huge Christmas peak, and an honest place for gift-idea affiliate links, without shipping two near-identical apps (which app stores can reject as spam). Every countdown is a shareable card, and it points to sister apps: payday to StackUp, exams to StudySprint, trips to Daymark.
 
 ## Who it's for
 
@@ -87,5 +87,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 16 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 15 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
