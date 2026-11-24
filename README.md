@@ -42,7 +42,8 @@ Anyone looking forward to something, and whoever in the household 'does the pres
 | Model | Detail |
 |---|---|
 | Free | 3 countdowns and up to 5 people, with ads |
-| Premium | £24.99/year (shown first) or £3.49/month, or a lifetime unlock: unlimited countdowns and people, widgets, themes, shared lists |
+| Premium | £34.99/year (shown first) or £3.49/month: unlimited countdowns and people, widgets, themes, shared lists |
+| KC All Access | £25 once (every Arcade game in every KC app, kept forever) plus £7.99/month or £79.99/year (Premium in every KC app). Needs a free KC account. |
 | Affiliate | Gift ideas linking to retailers, clearly labelled |
 | Ads | Banner only, never on the countdown card |
 
